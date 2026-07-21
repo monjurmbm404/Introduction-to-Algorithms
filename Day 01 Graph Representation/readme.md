@@ -385,14 +385,11 @@ then
 
 ## **Engr. Md Monjur Bakth Mazumder**
 
-🎓 **Secondary School Certificate (SSC)**  
-**[Shah Helal High School](https://www.shahhelalhs.edu.bd/)**
+🎓 **Secondary School Certificate (SSC) from [Shah Helal High School](https://www.shahhelalhs.edu.bd/)**
 
-🎓 **Diploma in Computer Science and Technology**
-**[Moulvibazar Polytechnic Institute (MPI)](https://mpi.moulvibazar.gov.bd/)**
+🎓 **Diploma in Computer Science and Technology from [Moulvibazar Polytechnic Institute (MPI)](https://mpi.moulvibazar.gov.bd/)**
 
-🎓 **BSc in Computer Science & Engineering (CSE)** _(Ongoing)_  
-**[Sylhet International University (SIU)](https://siu.edu.bd/)**
+🎓 **BSc in Computer Science & Engineering (CSE)** _(Ongoing)_ **at [Sylhet International University (SIU)](https://siu.edu.bd/)**
 
 📧 **Email:** monjurmbm404@gmail.com
 
@@ -418,5 +415,3 @@ If you found this repository helpful, please consider giving it a **⭐ Star**. 
 | 🐦 X (Twitter) | https://x.com/monjurmbm404                  |
 | ▶️ YouTube     | https://youtube.com/@monjurmbm404           |
 | ✍️ Medium      | https://medium.com/@monjurmbm404            |
-
-
