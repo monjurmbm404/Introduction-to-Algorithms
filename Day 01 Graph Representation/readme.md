@@ -381,7 +381,7 @@ then
 
 ---
 
-# 👨‍💻 Author
+# Author
 
 ## **Engr. Md Monjur Bakth Mazumder**
 
