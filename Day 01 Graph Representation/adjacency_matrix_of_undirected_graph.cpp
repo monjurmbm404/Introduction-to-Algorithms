@@ -19,10 +19,7 @@ int main()
     // for (int i = 0; i < n; i++)
     //     for (int j = 0; j < n; j++)
     //         if (i == j)
-    //         {
-
     //             adj_mat[i][j] = 1;
-    //         }
 
     for (int i = 0; i < n; i++)
         adj_mat[i][i] = 1;
@@ -30,13 +27,11 @@ int main()
     for (int i = 0; i < n; i++)
     {
         for (int j = 0; j < n; j++)
-        {
             cout << adj_mat[i][j] << " ";
-        }
         cout << endl;
     }
-    cout << endl
-         << endl;
+    cout << endl << endl;
+
     // get input
     for (int i = 0; i < e; i++)
     {
@@ -49,9 +44,7 @@ int main()
     for (int i = 0; i < n; i++)
     {
         for (int j = 0; j < n; j++)
-        {
             cout << adj_mat[i][j] << " ";
-        }
         cout << endl;
     }
     return 0;
