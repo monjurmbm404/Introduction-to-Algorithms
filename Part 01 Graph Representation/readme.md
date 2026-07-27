@@ -1,6 +1,6 @@
-# 📌 Day 01 — Graph Representation
+# 📌 Part 01 — Graph Representation
 
-Welcome to **Day 01** of the Graph Theory series.
+Welcome to **Part 01** of the Graph Theory series.
 
 In this lesson, we learn the three most common ways to represent graphs in C++.
 
@@ -375,9 +375,9 @@ then
 
 ---
 
-## 📚 Next Day
+## 📚 Next Part 
 
-➡️ **Day 02 Breadth First Search (BFS)**
+➡️ **Part 02 Breadth First Search (BFS)**
 
 ---
 
