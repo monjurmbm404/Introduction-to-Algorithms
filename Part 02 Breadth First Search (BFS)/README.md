@@ -1,6 +1,6 @@
-# 📌 Day 02 — Breadth First Search (BFS)
+# 📌 Part 02 — Breadth First Search (BFS)
 
-Welcome to **Day 02** of the Graph Theory series.
+Welcome to **Part 02** of the Graph Theory series.
 
 Today, we will learn one of the most important graph traversal algorithms:
 
@@ -488,9 +488,9 @@ Node    Level
 
 ---
 
-## 📚 Next Day
+## 📚 Next Part
 
-➡️ **Day 03 Depth First Search (DFS)**
+➡️ **Part 03 Depth First Search (DFS)**
 
 ---
 
