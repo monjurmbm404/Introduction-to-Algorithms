@@ -1,6 +1,6 @@
-# 📌 Day 03 — Depth First Search (DFS)
+# 📌 Part 03 — Depth First Search (DFS)
 
-Welcome to **Day 03** of the Graph Theory series.
+Welcome to **Part 03** of the Graph Theory series.
 
 Today, we will learn one of the most fundamental graph traversal algorithms:
 
@@ -446,9 +446,9 @@ Total Components
 
 ---
 
-## 📚 Next Day
+## 📚 Next Part
 
-➡️ **Day 04 Cycle Detection**
+➡️ **Part 04 Cycle Detection**
 
 ---
 
